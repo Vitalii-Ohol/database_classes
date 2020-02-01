@@ -1,1 +1,1 @@
-One project from my database classes. Year 2017.
+One project from my database classes. The year 2017.
